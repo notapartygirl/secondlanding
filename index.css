@@ -57,6 +57,24 @@ body {
   background-color: #505A5B;
 }
 
+.clearvision-container {
+  display: flex;
+  width: 1440px;
+  padding-top: 156px;
+  padding-left: 135px;
+  padding-right: 234px;
+  padding-bottom: 120px;
+  background-color: #E5E5E5;
+}
+
+.clearvision-img-wrapper {
+  align-content: center;
+}
+
+.clearvision-description {
+  margin-left: 443px;
+}
+
 .subtitle {
   font-family: 'Inter', sans-serif;
   font-size: 18px;
